@@ -1,0 +1,29 @@
+{
+  "name": "valorant-aichat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Valorant AI Chat - Next.js 14 project",
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blacktiger031416/valorant-aichat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "next": "14.2.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "24.9.2",
+    "@types/react": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}
